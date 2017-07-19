@@ -1,0 +1,47 @@
+/* CSS Document */
+body{ background-image:url(../bg_texture.jpg); margin:auto; font-size:18px; text-align:justify; border:solid; border-color:#00FFFF; border-width:1px;}
+.customdiv{color:#FFFFFF; text-align:justify;}
+
+#header-wrapper{
+width:100%;
+background-color:#000033;
+border-bottom: 10px groove #0000CC;
+}
+.customdiva{border-left:ridge;
+ border-color:#FFFFFF;
+ margin-right:5px;
+ color:#FFFFFF;}
+a:hover{background-color:#000033 !important; text-decoration:underline !important;}
+a:visited{color:#FFFFFF !important;}
+a:link{color:#FFFFFF !important;}
+
+
+
+#navigation{background-color:#00FFFF;}
+.wella{background-color:#FFFFFF; min-height:300px; color:#666666; margin-left:10px; margin-right:10px; margin-bottom:10px; border:solid; border-width:1px; border-color:#CCCCCC;}
+.wellb{background-color:#FFFFFF; min-height:190px; color:#666666; margin-left:10px; margin-right:10px; margin-bottom:10px; border:solid; border-width:1px; border-color:#CCCCCC;}
+.wellc{background-color:#FFFFFF; min-height:190px; color:#666666; margin-left:10px; margin-right:10px; margin-bottom:10px; border:solid; border-width:1px; border-color:#CCCCCC;}
+.welld{background-color:#FFFFFF; min-height:190px; color:#666666; margin-left:10px; margin-right:10px; margin-bottom:10px; border:solid; border-width:1px; border-color:#CCCCCC;}
+.welle{background-color:#00FFFF;  margin-left:10px; margin-right:10px; margin-bottom:10px; border:solid; border-width:1px; border-color:#CCCCCC; color:#FFFFFF;   }
+
+.la{margin:10px;}
+#omg{border:solid; border-color:#CCCCCC;}
+
+.re{padding-left:0px !important;}
+
+.col{background-color:#00CCFF;}
+
+footer{color:#FFFFFF;}
+a:link{color:#FFFFFF; text-transform:uppercase; text-decoration:blink;}
+.cm{max-height:200px}
+.o{min-height:300px}
+.os{min-height:220px}
+.e{height:525px;}
+.dropdown-menu{background-color:#000033; color:#FFFFFF;}
+.his{background-color:#CCCCCC; color:#333333; min-height:500px;}
+.new{background-color:#0099FF; color:#FFFFFF; min-height:500px;}
+.marl{margin-left:10px}
+.marr{margin-right:10px}
+.cha{background-color:#0033FF;  text-align:justify; color:#FFFFFF;}
+.mssn{background-color:#0066FF;  text-align:justify; color:#FFFFFF;}
+.footer{color:#FFFFFF; background-color:#000033;}
